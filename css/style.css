@@ -33,7 +33,7 @@ a:hover, a:focus, a:active, a:visited {
     border-radius: 4px;
 }
 .btn-red {
-	background-color: #dd5138;
+	background-color: #F67F32;
 	color: #fff;
 }
 .btn-yellow {
@@ -75,7 +75,7 @@ a:hover, a:focus, a:active, a:visited {
     margin-right: 10px;
     text-transform: uppercase;
     font-size: 12px;
-    background-color: #dd5138;
+    background-color: #F67F32;
     padding: 3px 10px;
     font-weight: 600;
     border-radius: 3px;
@@ -94,7 +94,7 @@ a:hover, a:focus, a:active, a:visited {
 }
 .side-menu ul li a span.dot {
     position: relative;
-    background-color: #dd5138;
+    background-color: #F67F32;
     border-radius: 2em;
     height: 10px;
     width: 10px;
@@ -108,7 +108,7 @@ a:hover, a:focus, a:active, a:visited {
 
 
 .hero-header {
-	background: #016cc7;
+	background: #A8CCCC;
 	min-height: 600px;
 	padding: 5em;
 	color: #fff;
@@ -123,7 +123,7 @@ a:hover, a:focus, a:active, a:visited {
     margin: 2em 0;
 }
 .hero-header .logo {
-	max-width: 180px;
+	max-width: 400px;
 }
 .hero-header .btn {
 	margin-top: 3em;
@@ -188,13 +188,16 @@ a span.ti-twitter-alt {
 }
 .tickets .price {
 	font-size: 4em;
-	color: #dd5138;
+	color: #F67F32;
     font-weight: 100;
 }
 .tickets .price sup {
 	font-size: 0.4em;
 }
 
+.teal {
+    background-color: #E0F0F0;
+}
 
 .nav-tabs {
     margin-top: 20px;
@@ -239,7 +242,7 @@ ul.footer-menu li a {
     padding-right: 20px;
 }
 ul.footer-menu li a:hover {
-    color: #dd5138;
+    color: #F67F32;
 }
 
 
