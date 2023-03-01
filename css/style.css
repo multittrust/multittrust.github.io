@@ -58,7 +58,7 @@ a:hover, a:focus, a:active, a:visited {
 .side-menu {
 	position: fixed;
 	right: 30px;
-	top: 50%;
+	top: 30%;
     transform: translateY(-73px);
     z-index: 99;
 }
