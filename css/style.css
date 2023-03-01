@@ -96,8 +96,8 @@ a:hover, a:focus, a:active, a:visited {
     position: relative;
     background-color: #F67F32;
     border-radius: 2em;
-    height: 10px;
-    width: 10px;
+    height: 20px;
+    width: 20px;
     -webkit-transition: all 0.3s;
   	-moz-transition: all 0.3s;
   	transition: all 0.3s;
