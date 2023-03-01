@@ -64,7 +64,7 @@ a:hover, a:focus, a:active, a:visited {
 }
 .side-menu ul li {
     text-align: right;
-    margin: 10px 0;
+    margin: 10px 5px;
 }
 .side-menu ul li a span {
 	display: inline-block;
@@ -96,8 +96,8 @@ a:hover, a:focus, a:active, a:visited {
     position: relative;
     background-color: #F67F32;
     border-radius: 2em;
-    height: 20px;
-    width: 20px;
+    height: 12px;
+    width: 12px;
     -webkit-transition: all 0.3s;
   	-moz-transition: all 0.3s;
   	transition: all 0.3s;
