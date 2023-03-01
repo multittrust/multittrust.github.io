@@ -349,3 +349,7 @@ ul.footer-menu li a:hover {
         margin-right: 9px;
     }
 }
+
+.container {
+    padding: 0;
+}
