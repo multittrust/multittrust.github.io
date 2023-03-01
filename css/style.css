@@ -57,7 +57,7 @@ a:hover, a:focus, a:active, a:visited {
 ------------------ */
 .side-menu {
 	position: fixed;
-	right: 30px;
+	right: 1%;
 	top: 30%;
     transform: translateY(-73px);
     z-index: 99;
@@ -352,4 +352,13 @@ ul.footer-menu li a:hover {
 
 .container {
     padding: 0;
+}
+
+.my-top {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.row {
+    margin: 0 0;
 }
