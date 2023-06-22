@@ -166,6 +166,11 @@ a:hover, a:focus, a:active, a:visited {
     border: 4px solid #efefef;
     border-radius: 50%;
 }
+.keynote-img {
+    max-width: 70%;
+    border: 4px solid #efefef;
+    border-radius: 50%;
+}
 ul.speaker-social li {
 	list-style: none;
 	display: inline-block;
